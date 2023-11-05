@@ -1,0 +1,13 @@
+Terraform commands
+navigate to the path where main.tf file is created
+
+terraform -v
+
+terraform init
+
+terraform plan
+
+terraform apply
+
+//it will destroy the whole infrastructure
+terraform destroy
